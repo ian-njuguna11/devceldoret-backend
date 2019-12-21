@@ -25,7 +25,6 @@
     "cors": "^2.8.4",
     "dotenv-config": "^0.1.1",
     "express": "^4.17.1"
-    
   },
   "devDependencies": {
     "@types/pg": "^7.11.2",
